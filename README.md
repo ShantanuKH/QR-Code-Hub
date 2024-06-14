@@ -1,16 +1,41 @@
-# qr_code_generator_and_scanner
+# QR Code Hub
 
-A new Flutter project.
+A QR code hub is a simple app built using Flutter. This app allows users to generate QR codes from input data and scan QR codes using the device camera. The scanned QR code data is displayed on the screen.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Generate QR Code:** Enter data and generate a QR code for the same.
+- **Scan QR Code:** Scan a QR code using the device camera and display the scanned data on the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## How to use ?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Scan QR Code
+   - Press the "Scan QR Code" button.
+   - The camera will open, and you can scan a QR code.
+   - The scanned QR code data will be displayed on the screen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Generate QR Code
+   - Enter the data you want to encode in the text field.
+   - Press the "Generate QR Code" button.
+   - The generated QR code will be displayed on the screen.
+
+
+## Screenshots
+
+ <img src=public/Home.jpg alt="Home" width="250"/>  <img src=public/Scanner.jpg alt="Scanner" width="250"/> <img src=public/Generator.jpg alt="Generator" width="250"/>
+
+
+
+## Author
+
+
+   ### Shantanu Khadse
+  
+  GitHub: [ShantanuKH](https://github.com/ShantanuKH)
+  
+  Email: shantanukhadse784@gmail.com  
+  
+  LinkedIn: [shantanukhadse](https://www.linkedin.com/in/shantanu-khadse-a62585230/)
+
+
+
